@@ -8,19 +8,24 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Programador\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Programacion3Parcial2\\Programacion3Parcial2\\Programacion3Parcial2.csproj",
+      "projectUniqueName": "C:\\Users\\Programador\\Source\\Repos\\bluxa\\Programacion3Parcial2\\Programacion3Parcial2\\Programacion3Parcial2.csproj",
       "projectName": "Programacion3Parcial2",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\Programacion3Parcial2\\Programacion3Parcial2\\Programacion3Parcial2.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\Programacion3Parcial2\\Programacion3Parcial2\\obj\\",
+      "projectPath": "C:\\Users\\Programador\\Source\\Repos\\bluxa\\Programacion3Parcial2\\Programacion3Parcial2\\Programacion3Parcial2.csproj",
+      "packagesPath": "C:\\Users\\Programador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Programador\\Source\\Repos\\bluxa\\Programacion3Parcial2\\Programacion3Parcial2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Programador\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
